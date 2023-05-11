@@ -1,1 +1,1 @@
- https://AngelinaAnashkevich.github.io/cv.md
+ https://AngelinaAnashkevich.github.io/cv/cv
