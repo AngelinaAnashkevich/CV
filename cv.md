@@ -41,6 +41,14 @@ int main()
 
 # PROJECTS
 
-Мой профиль на GitHub: [https://github.com/AngelinaAnashkevich/CV/blob/markdowm-cv/cv.md](https://github.com/AngelinaAnashkevich/CV/blob/markdowm-cv/cv.md)
+Моё СV на GitHub: [https://github.com/AngelinaAnashkevich/CV/blob/markdowm-cv/cv.md](https://github.com/AngelinaAnashkevich/CV/blob/markdowm-cv/cv.md)
 
-[1]: https://github.com/AngelinaAnashkevich/CV/blob/markdowm-cv/cv.md
+# EDUCATION
+
+* Vitebsk State University named after P.M. Masherov
+
+# ENGLISH
+
+A2+ Pre-Intermediate
+
+
