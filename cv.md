@@ -40,3 +40,7 @@ int main()
 + Высшая математика
 
 # PROJECTS
+
+Мой профиль на GitHub: [https://github.com/AngelinaAnashkevich/CV/blob/markdowm-cv/cv.md](https://github.com/AngelinaAnashkevich/CV/blob/markdowm-cv/cv.md)
+
+[1]: https://github.com/AngelinaAnashkevich/CV/blob/markdowm-cv/cv.md
