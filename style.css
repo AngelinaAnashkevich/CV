@@ -213,3 +213,47 @@ hr{
   .burger.active .line3 {
   transform: rotate(-45deg) translate(5px, -5px);
   }
+  .footer {
+    background-color: #6005f3;
+    padding: 20px;
+  }
+  footer {
+      display: block;
+  }
+  @media (max-width: 768px){
+  .footer-container {
+    align-items: self-start;
+    flex-direction: column;
+}}
+@media (max-width: 1440px){
+.container {
+    padding: 0 20px;
+}}
+.footer-container {
+  /* align-items: center; */
+  color: #fff;
+  display: flex;
+  justify-content: flex-start;
+  margin: 0 auto;
+}
+.container {
+  margin: 0 auto;
+  max-width: 1440px;
+  min-height: 50px;
+}
+.github {
+  color: #fff;
+  line-height: 45px;
+  text-decoration: none;
+}
+.nav-link:after {
+  background-color: #fff;
+  bottom: -5px;
+  content: "";
+  height: 2px;
+  left: 12px;
+  opacity: 0;
+  position: absolute;
+  transition: .5s;
+  width: calc(100% - 24px);
+}
