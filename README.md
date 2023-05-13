@@ -1,3 +1,3 @@
  # https://AngelinaAnashkevich.github.io/CV/cv
- # https://github.com/AngelinaAnashkevich/CV
+ # https://angelinaanashkevich.github.io/CV/
 
