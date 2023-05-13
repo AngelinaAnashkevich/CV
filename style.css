@@ -98,11 +98,11 @@ li {
 }
 
 hr{
-  width: 200px;
+  width: 250px;
   height: 20px;
   background-color: #6005f3;
-  ;
-  width: 90%;
+  
+  width: 95%;
 }
 
 .section-container {
@@ -111,10 +111,17 @@ hr{
 }
 
 .section {
+  /* background-color: #ffffff; */
   flex-basis: 50%;
-  padding: 20px;
-  box-sizing: border-box;
+  padding: 10px 10px 35px;
+  width: calc(50% - 20px);
+  box-sizing:border-box;
+  box-shadow: 10px 4px 10px rgba(0, 0, 0, 0.5);
+  padding-left: 50px;
+  padding-right: 50px;
+
 }
+
 
 @media (max-width: 768px) {
   .section {
